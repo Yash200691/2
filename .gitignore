@@ -32,7 +32,6 @@ out/
 *.tgz
 *.zip
 *.tar
-*.gz
 *.bak
 *.tmp
 .venv
